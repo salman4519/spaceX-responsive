@@ -1,0 +1,67 @@
+.bg-image{
+    background-image: url(images/Launch_Page_Starlink1_vertical_18_DESKTOP_c051df793a.jpg);
+    background-position: center;
+    background-blend-mode: multiply;
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 776px;
+    
+
+
+}
+/* *{
+    overflow-x: hidden;
+} */
+
+.offcanvas{
+    background-color:black !important;
+}
+
+
+
+
+#image-two{
+    background-image: url("./images/page1.jpg") !important;
+    display: flex;
+    align-items: center;
+}
+#image-three{
+    background-image: url("images/GOES_U_rampengine_DSC_5719_desktop_80888fb22d.jpg") !important;
+    display: flex;
+    align-items: center;
+}
+#image-four{
+    background-image: url("images/Eva_Suit_Desktop_alternate_1cf9bae18e.jpg") !important;
+    display: flex;
+    align-items: center;
+}
+#image-five{
+    background-image: url("images/make_life_multiplanetary_desktop_3fa7cff73c.jpg") !important;
+    display: flex;
+    align-items: center;
+}
+
+.watch-now-button{
+    width: 150px !important;
+    height: 60px;
+    border-radius: 0%;
+    margin-left: 15px;
+    font-size: 13px;
+    border-radius: 0% !important;
+    border-width: 2px !important;
+}
+
+
+body{
+    overflow-x: hidden !important;
+    width: 100vw;
+}
+#navbar{
+    overflow-x: hidden !important;
+    
+}
+.foot{
+    background-color: black !important;
+    overflow-x: hidden !important;
+}
